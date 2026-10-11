@@ -1,0 +1,9 @@
+data/
+.env
+*.tif
+*.tiff
+*.pkl
+*.joblib
+*.zip
+__pycache__/
+.venv/

@@ -1,0 +1,38 @@
+[
+  {
+    "file": "code/analysis_original.py",
+    "bytes": 309933,
+    "sha256": "7c10382319f61dbad77001d4041fb156922c7962fd08feddefd3c68ce3b2be70",
+    "role": "Unmodified archived source; local input/output paths require author setup."
+  },
+  {
+    "file": "code/building_metrics_original.py",
+    "bytes": 6406,
+    "sha256": "6181fa8f3290fc635df201d2b1add0e98a9d28cd96e23f23a2263f6f93021f6f",
+    "role": "Unmodified archived source; local input/output paths require author setup."
+  },
+  {
+    "file": "code/merge_hourly_original.py",
+    "bytes": 27531,
+    "sha256": "6889cacec46689e1a80d789c7fe0dbcc9af6c88ec97ec850dbb63f8b8c2451e0",
+    "role": "Unmodified archived source; local input/output paths require author setup."
+  },
+  {
+    "file": "code/merge_seasonal_original.py",
+    "bytes": 7234,
+    "sha256": "d75f07a595179f77bcbe5425b184482da867502cb27170f1db55593262da99da",
+    "role": "Unmodified archived source; local input/output paths require author setup."
+  },
+  {
+    "file": "code/road_metrics_original.py",
+    "bytes": 6146,
+    "sha256": "2ae9297c0067f228cb564afdeb2ccf8bd6968d215707706fbb046aaabb03efbe",
+    "role": "Unmodified archived source; local input/output paths require author setup."
+  },
+  {
+    "file": "code/svf_saga_original.py",
+    "bytes": 7395,
+    "sha256": "5bd2700c9a4593fcab04697558e78a804e9afc0bc4438f856492a2ae98fc46a9",
+    "role": "Unmodified archived SAGA sky-view-factor script that produced the paper SVF (16 directions, 10,000 m search radius); local input/output paths require author setup."
+  }
+]
