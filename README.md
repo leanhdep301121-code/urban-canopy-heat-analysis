@@ -1,3 +1,5 @@
+English | [简体中文](README.zh-CN.md)
+
 # Urban canopy heat analysis
 
 Code for the study **"Predictive importance diverges from graph-adjusted associations with canopy heat islands across China"**.
